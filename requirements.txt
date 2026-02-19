@@ -1,0 +1,4 @@
+pytest
+cython
+wheel
+setuptools>=42
