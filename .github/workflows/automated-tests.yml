@@ -28,8 +28,9 @@ jobs:
         virtualenv venv
         source venv/bin/activate
         pip install pytest
+        pip install -r requirements.txt
         pip install -e .
-        
+
     - name: Run Testing Framework
       run: |
         source venv/bin/activate
