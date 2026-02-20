@@ -8,7 +8,7 @@ permissions:
 
 jobs:
   Ubuntu:
-    runs-on: arc-runner-set
+    runs-on: arc-runner-test
 
     strategy:
       matrix:
