@@ -1,4 +1,4 @@
-name: Automated Testing
+name: Automated ARC Testing
 
 on:
   push:
